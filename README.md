@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PiyushChoudhary122
 - 👀 I’m interested in artificial intelligence, facial recognition
-- 🌱 I’m currently learning Java , C , Python and C++
-- 💞️ I’m looking to collaborate on facial recog. projects
+- 💞️ I’m looking to collaborate on facial recognition, machine learning, deep learning and AI projects
 - 📫 How to reach me gmail  :- piyushchoudhary256@gmail.com
                     linkedin :-www.linkedin.com/in/piyush-choudhary-b811a8208
 
